@@ -1,0 +1,462 @@
+   
+   @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&family=Roboto:wght@300;400;500;700&display=swap');
+   
+   
+   
+
+   
+   body{
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+margin: 0;
+padding: 0;
+    }
+ .container{
+ max-width: 1749px !important;
+ }
+/* -------------------------------nav_start--------------------------------------- */
+ nav{
+    box-shadow: 0px 5.333333492279053px 80px 0px #0000001A;
+
+
+ }
+
+.naberlinkhome{
+color: #5E3BEE !important;
+
+
+}
+.naberlink {
+    font-size: 16px ; color:  #1C1E53;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+ 
+    transition: .4s;
+   margin-left: 42px;
+}
+.naberlink:hover{
+    color: #5E3BEE;
+}
+.navbutton{
+ 
+    padding: 18PX 30PX;
+    border-radius: 5.33px;
+    border: 1.33px;
+    background: transparent;
+    gap: 10.67px;
+color: #5E3BEE;
+ border: 1.33px solid #5E3BEE;
+transition: .4s;
+}.navbutton:hover{
+    background-color: #5E3BEE;
+    color:  #fff;
+}
+.navlogo{
+    width: 186.67px;
+height: 40px;
+}
+/* -------------------------------nav_end--------------------------------------- */
+/* -------------------------------bennar_start--------------------------------------- */
+.text-area h4{
+    font-weight: 600;
+    font-size: 21px; 
+   color: #282938;
+    line-height: 32px;
+  margin-top: 234px;
+    
+ }
+ 
+ .text-area h1{
+ 
+    font-size: 75px;
+    font-weight: 700;
+    line-height: 90px;
+   color: linear-gradient(0deg, #282938, #282938),
+    linear-gradient(0deg, #282938, #282938),
+    linear-gradient(0deg, #5E3BEE, #5E3BEE);
+    margin-top: 21px;
+ 
+ }
+ 
+ .text-area p{
+ 
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+ margin-top: 21px;
+ width: 621.33px;
+ 
+ margin-bottom: 53px;
+ 
+ }
+
+ .text-area a{
+ 
+  text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+ color: #fff;
+ background-color:  #5E3BEE;
+ padding: 18px 25px;
+ border-radius: 5px;
+ }
+#banner img{
+margin-top: 119px;
+ }
+ #banner {
+   background:  #F5FCFF;
+
+ }
+/* -------------------------------bennar_end--------------------------------------- */
+/* --------------------------------my skil part start ---------------------- */
+
+.skil .card-text{
+    width: 341.33px;
+ padding-top:14px;  
+font-size: 21px;
+font-weight: 400;
+line-height: 32px;
+ color: 
+ #1C1E53;
+
+ }
+ .skil .card-title{
+ 
+font-size: 32px;
+font-weight: 700;
+line-height: 45px;
+ color: #282938;
+padding-top:  8px;
+ }
+ .skil .card{
+    border: 0px;
+border-radius: 10.67px;
+transition: .4s;
+ }
+ .skil .card:hover{
+ 
+   border-radius: 10.667px;
+   border-bottom: 4px solid #5E3BEE;
+   background:  #F5FCFF;
+  
+}
+ .skil .card img{
+   box-shadow: 0px 0px 16px 0px #0000001A;
+   background: #FFFFFF;
+ margin-bottom: 21px;
+   padding: 13.33px;
+   border-radius: 10.67px;
+   gap: 13.33px;
+   width: 53.33px;
+height: 53.33px;
+ }
+ .skil h4{
+   color: #282938; 
+font-size: 21.333px;
+font-style: normal;
+font-weight: 600;
+line-height: 150%;  
+ }
+ .skil h2{
+   color: #282938;
+ padding-bottom: 70px;
+   font-size: 64px;
+   font-style: normal;
+   font-weight: 700;
+ line-height: 150%;
+ }
+ 
+
+/* --------------------------------------my skil part end-------------------- */
+/* --------------------------------------my about me start-------------------- */
+.about_text h5{
+   color: #282938;
+ padding-bottom: 10px;
+font-size: 21.333px;
+font-style: normal;
+font-weight: 600;
+line-height: 150%;   
+}.about_text h2{
+ 
+ padding-bottom: 32px;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: 120%;  
+color: #282938;
+}.about_text p{
+ 
+ color: #1C1E53;
+   font-size: 24px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 150%; 
+}
+.about_text{ 
+ padding-top: 296px;
+}
+#about_me{
+   height: 1263px;
+ align-items: center;
+ 
+  }
+  #about_me img{
+ margin-top: 134px;
+ 
+  }
+    
+
+
+
+
+
+
+
+/* --------------------------------------my about me end-------------------- */
+/* --------------------------------------my third_part start-------------------- */
+.third_part_text {
+   display: flex;
+   justify-content: space-between;
+}
+ 
+.third_part_text_right h4{
+   color: #282938 !important;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600 !important;
+  line-height: 150%;  
+  }.third_part_text_right h2{
+ color :#282938;
+   font-size: 48px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: 120%; 
+   padding-top: 21px;
+  }
+  .third_part_text{
+align-items: center;
+  }
+.third_part_bottom a{
+font-size: 14px;
+font-weight: 600;
+line-height: 150%;
+text-decoration: none; 
+color: #000000;
+gap: 10px;
+text-transform: capitalize;
+padding-bottom: 10px;
+border-bottom: 1.333px solid var(--Primary, #5E3BEE);
+  }
+
+ 
+ 
+  .third_part_bottom{
+   padding-bottom: 161px;
+  }
+  .third_part_text button{
+    background-color: #E62872 !important; 
+    padding: 21px;
+    color: #FFF; 
+font-size: 24px !important;
+font-style: normal;
+font-weight: 400;
+line-height: 150%;  
+   }
+   #third_part .card-body{
+height: 254.33px !important;
+padding: 32px;
+   }
+   .third_part_text_right p{
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 24px;
+    color:  #1C1E53 !important
+
+     }
+     .svg-icon{
+      margin-right: 16px;
+     }
+
+     .card-icon{
+      margin-left: 16px;
+           } 
+       .card-icon:hover{
+       color: #000000;
+        }
+/* --------------------------------------my third_part end-------------------- */
+/* --------------------------------------fourth_part start-------------------- */
+.foth_top h5{
+   color: #282938;
+     font-size: 16px;
+     font-weight: 600;
+     line-height: 24px;
+   padding-bottom: 21px;
+  }.foth_top h2{
+ 
+   font-size: 48px;
+   font-weight: 700;
+   line-height: 58px;
+color: #282938  ;
+padding-bottom: 100px;
+  }
+ .card_footer{
+   display: flex;
+ align-items: center;
+ gap: 21px;
+ padding-top: 20px;
+ }.card_footer .text h5{
+ color: #282938;
+  font-size: 14px;
+  font-weight: 600;
+
+   }.card_footer .text h6{
+ 
+      font-size: 16px;
+      font-weight: 400;
+ color: 
+ #1C1E53;
+      }
+    #fourth_part p{
+ 
+ color: #1C1E53 !important;
+ font-size: 16px;
+ font-weight: 400;
+ line-height: 24px;
+ padding-top: 42px;
+
+      }
+#fourth_part .card_body{
+  padding: 42.67px;
+  border-radius: 8px;
+  border: 1px solid #006B6A ;
+ 
+  
+}#fourth_part{
+  padding-bottom: 167px;
+}
+/* --------------------------------------fourth_part end-------------------- */
+/* --------------------------------------contact_me dtart-------------------- */
+.contact_part h6{
+ 
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+color: #282938;
+ padding-bottom: 21px;
+  
+}.contact_part h3{
+ 
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 58px;
+color: #282938;
+padding-bottom: 32px;
+  
+}.contact_part p{
+ 
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+color: #1C1E53;
+padding-bottom: 64px;
+  
+}
+.contact_part{
+  text-align: center;
+}
+.contact input{
+  width: 100%;
+ height: 64px;
+ margin-bottom: 32px;
+border-radius: 8px;
+border: 1.333px solid #5E3BEE;
+
+}.contact label{
+ padding-bottom: 10px;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+color: #282938;
+
+}
+.form-select{
+  width:100%;
+height: 64px;
+ margin-bottom: 32px;
+border-radius: 8px;
+border: 1.333px solid #5E3BEE;
+}
+textarea{
+  border-radius: 8px;
+border: 1.333px solid var(--Primary, #5E3BEE);
+ 
+  width: 100%;
+}
+#checkbox{
+  width: 21.333px;
+height: 21.333px;
+margin-top: 32px;
+}
+#contact_me a{
+  text-decoration: none;
+  padding: 18.667px 42.667px;
+  gap: 10.667px;
+  color: #FFFFFF;
+  background-color: #5E3BEE;
+  border-radius: 8px;
+ 
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 32px;
+ 
+  
+  } 
+  #contact_me{
+    padding-bottom: 146px;
+  }
+/* --------------------------------------contact_me end-------------------- */
+/* --------------------------------------footer start-------------------- */ 
+ .footer_ul1{
+  display: flex;
+  gap: 42px;
+}
+.footer_ul1 li {
+ list-style: none;
+ color: #000000;
+ font-size: 21.333px;
+font-style: normal;
+font-weight: 400;
+text-transform: capitalize;
+ height: 24px;
+ flex-shrink: 0;
+}
+ .footer_part{
+  display: flex;
+ justify-content: space-between;
+  padding-bottom: 106px;
+ }
+ .footer_part  img{
+ height: 40px;
+ }.line_of_footer{
+  width: 100%;
+  height: 1px;
+  background: #2829388C;
+ margin-bottom: 42px;
+ }
+ .footer_bottom2 ul{
+  display: flex;
+  gap: 32px;
+   } .footer_bottom2 ul li {
+ list-style: none;
+ font-size: 18.667px;
+font-style: normal;
+font-weight: 400;
+     }
+     .footer_bottom{
+      display: flex;
+      justify-content: space-between;
+      padding-bottom: 106px;
+     }
+/* --------------------------------------footer end-------------------- */
